@@ -1,0 +1,10 @@
+﻿body {
+    margin: 10vh auto;
+    font-family: 'Script MT';
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
